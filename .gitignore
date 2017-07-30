@@ -67,3 +67,4 @@ __recovery/
 out/bin/Win32/Debug/dunitx-results.xml
 src/MyAmazingProduct.res
 test/TestMyAmazingProduct.res
+*.xml
