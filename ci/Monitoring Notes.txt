@@ -1,0 +1,6 @@
+Professional option:
+https://catlight.io/editions
+
+Roll your own from output:
+http://localhost:8080/cc.xml
+(Or use CCTray for Windows which reads this info)
