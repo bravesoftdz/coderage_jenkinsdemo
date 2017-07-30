@@ -71,7 +71,7 @@
     </PropertyGroup>
     <PropertyGroup Condition="'$(Base)'!=''">
         <DCC_DcuOutput>..\out\lib\$(Platform)\$(Config)</DCC_DcuOutput>
-        <DCC_ExeOutput>..\out\bin\$(Platform)\$(Config)</DCC_ExeOutput>
+        <DCC_ExeOutput>..\out\bin\</DCC_ExeOutput>
         <DCC_E>false</DCC_E>
         <DCC_N>false</DCC_N>
         <DCC_S>false</DCC_S>
@@ -126,7 +126,6 @@
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
         <DCC_RemoteDebug>false</DCC_RemoteDebug>
-        <VerInfo_Locale>1033</VerInfo_Locale>
         <Manifest_File>C:\Users\Darian\Documents\Embarcadero\Studio\Projects\(None)</Manifest_File>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
